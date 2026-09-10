@@ -64,3 +64,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). All source contracts, tests, and scripts include an `SPDX-License-Identifier: MIT` header.
+
+Website: [dezk.id](https://dezk.id) · App: [app.dezk.id](https://app.dezk.id)
